@@ -15,7 +15,8 @@ Determine the hyperparameters through Bayesian Optimization and set the edges in
 
 Construct the graph on source tasks and identify the landmark source for the given target task.
 
-[framework.pdf](https://github.com/techicoco/SeqTransfer/files/14532177/framework.pdf)
+![image](https://github.com/techicoco/SeqTransfer/assets/151148523/83814835-57c6-4448-8284-cd286d79dca4)
+
 
 
 Minimize the transfer cost and search cost to find the effective sequential transfer path p* as the solution to the optimal sequential transfer problem.
