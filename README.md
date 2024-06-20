@@ -1,4 +1,4 @@
-# SeqTransfer
+# LMSeqTransfer
 
 Run task_affinity_estimation.py to calculate the task affinity between task a and task b.
 
